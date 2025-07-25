@@ -58,7 +58,7 @@ export const HOOPS = {
   RIM_HEIGHT: 4.3,
   RIM_THICKNESS: 0.1,
   
-  LEFT_RIM_X: -16.1 + (-3.1),
+  LEFT_RIM_X: -16.1 + 3.1,
   RIGHT_RIM_X: 16.1 + (-3.1),
   RIM_Y: 4.3,
   RIM_Z: 0,
