@@ -158,15 +158,13 @@ If I continue this project, I'd add:
 
 ## Credits
 
-**Developer:** Michael Ohayon & Irad Danieli
+**Developer:** Michael Ohayon
 
 **Assets:**
 - Court textures from [freepbr.com](https://freepbr.com/) (Unity version, extracted PNG files)
 - Color palette hand-picked using [HTML Color Codes](https://htmlcolorcodes.com/color-picker/)
 - Three.js library by [mrdoob](https://github.com/mrdoob/three.js)
 
-**Course:** Computer Graphics (Exercise 5)
-**Original skeleton:** Dan Pollak
 
 ## License
 
